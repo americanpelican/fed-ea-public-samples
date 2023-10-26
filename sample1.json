@@ -4,6 +4,7 @@
 	"base": "http://fed-ea.org/samples/sample1",
 	"name": {
 		"en": "Sample 1",
-		"zh": "示例1"
+		"zh": "示例1",
+		"ja": "サンプル1"
 	}
 }
